@@ -1,15 +1,11 @@
 import { authMiddleware } from "@repo/auth/proxy";
 import {
   noseconeOptions,
-  noseconeOptionsWithToolbar,
   securityMiddleware,
 } from "@repo/security/proxy";
 import type { NextProxy } from "next/server";
-import { env } from "./env";
 
-const securityHeaders = env.FLAGS_SECRET
-  ? securityMiddleware(noseconeOptionsWithToolbar)
-  : securityMiddleware(noseconeOptions);
+const securityHeaders = securityMiddleware(noseconeOptions);
 
 // Clerk middleware wraps other middleware in its callback
 // For apps using Clerk, compose middleware inside authMiddleware callback
