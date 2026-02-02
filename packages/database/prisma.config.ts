@@ -1,13 +1,16 @@
+import { resolve } from "node:path";
+import { config } from "dotenv";
 import { defineConfig } from "prisma/config";
-import { keys } from "./keys";
-import "dotenv/config";
+
+// Load environment variables from .env.local
+config({ path: resolve(__dirname, ".env.local") });
 
 export default defineConfig({
-  schema: "prisma/schema.prisma",
+  schema: "prisma/models",
   migrations: {
     path: "prisma/migrations",
   },
   datasource: {
-    url: keys().DATABASE_URL,
+    url: process.env.DATABASE_URL || "",
   },
 });
