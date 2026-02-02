@@ -20,7 +20,6 @@ export const VercelButton = () => {
       "DATABASE_URL",
       "RESEND_TOKEN",
       "RESEND_FROM",
-      "CLERK_WEBHOOK_SECRET",
       "STRIPE_SECRET_KEY",
       "STRIPE_WEBHOOK_SECRET",
       "BASEHUB_TOKEN",
