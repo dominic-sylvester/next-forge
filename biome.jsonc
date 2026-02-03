@@ -13,5 +13,72 @@
       "!apps/docs/**/*.json",
       "!apps/email/.react-email"
     ]
+  },
+  "linter": {
+    "rules": {
+      "complexity": {
+        "noExcessiveCognitiveComplexity": {
+          "level": "warn",
+          "options": {
+            "maxAllowedComplexity": 15
+          }
+        },
+        "noExcessiveNestedTestSuites": "warn",
+        "noForEach": "off",
+        "noUselessStringConcat": "error",
+        "noUselessUndefinedInitialization": "error",
+        "useSimplifiedLogicExpression": "warn"
+      },
+      "style": {
+        "useNamingConvention": {
+          "level": "warn",
+          "options": {
+            "strictCase": false,
+            "conventions": [
+              {
+                "selector": { "kind": "function" },
+                "formats": ["camelCase", "PascalCase"]
+              },
+              {
+                "selector": { "kind": "variable" },
+                "formats": ["camelCase", "PascalCase", "CONSTANT_CASE"]
+              },
+              {
+                "selector": { "kind": "typeLike" },
+                "formats": ["PascalCase"]
+              },
+              {
+                "selector": { "kind": "interface" },
+                "formats": ["PascalCase"]
+              },
+              {
+                "selector": { "kind": "typeAlias" },
+                "formats": ["PascalCase"]
+              },
+              {
+                "selector": { "kind": "enum" },
+                "formats": ["PascalCase"]
+              },
+              {
+                "selector": { "kind": "enumMember" },
+                "formats": ["PascalCase", "CONSTANT_CASE"]
+              },
+              {
+                "selector": { "kind": "classProperty" },
+                "formats": ["camelCase"]
+              },
+              {
+                "selector": { "kind": "classMethod" },
+                "formats": ["camelCase"]
+              },
+              {
+                "selector": { "kind": "objectLiteralProperty" },
+                "formats": ["camelCase", "PascalCase", "CONSTANT_CASE"]
+              }
+            ]
+          }
+        }
+      }
+    }
   }
 }
