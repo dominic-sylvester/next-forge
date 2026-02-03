@@ -1,0 +1,57 @@
+{
+  "$schema": "https://unpkg.com/knip@5/schema.json",
+  "workspaces": {
+    ".": {
+      "entry": ["scripts/**/*.{js,ts}"],
+      "project": ["**/*.{js,ts}"],
+      "ignore": ["dist/**", "node_modules/**"]
+    },
+    "apps/app": {
+      "entry": ["app/**/*.{ts,tsx}", "env.ts"],
+      "project": ["**/*.{ts,tsx}"],
+      "ignore": [
+        ".next/**",
+        "__tests__/**",
+        "**/*.test.{ts,tsx}",
+        "**/*.config.*"
+      ]
+    },
+    "apps/api": {
+      "entry": ["app/**/*.{ts,tsx}", "env.ts"],
+      "project": ["**/*.{ts,tsx}"],
+      "ignore": [
+        ".next/**",
+        "__tests__/**",
+        "**/*.test.{ts,tsx}",
+        "**/*.config.*"
+      ]
+    },
+    "apps/storybook": {
+      "entry": ["stories/**/*.{ts,tsx}", ".storybook/**/*.{ts,tsx}"],
+      "project": ["**/*.{ts,tsx}"],
+      "ignore": ["storybook-static/**", "__tests__/**", "**/*.config.*"]
+    },
+    "apps/docs": {
+      "entry": ["**/*.{ts,tsx,mdx}"],
+      "project": ["**/*.{ts,tsx}"],
+      "ignore": [".mintlify/**"]
+    },
+    "apps/email": {
+      "entry": ["**/*.{ts,tsx}"],
+      "project": ["**/*.{ts,tsx}"]
+    },
+    "packages/*": {
+      "entry": ["index.ts", "*.ts"],
+      "project": ["**/*.{ts,tsx}"],
+      "ignore": ["dist/**", "generated/**"]
+    }
+  },
+  "ignoreDependencies": [
+    "@repo/*",
+    "tailwindcss",
+    "postcss",
+    "autoprefixer",
+    "typescript"
+  ],
+  "ignoreWorkspaces": ["packages/typescript-config"]
+}

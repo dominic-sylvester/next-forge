@@ -1,0 +1,23 @@
+{
+  "threshold": 5,
+  "reporters": ["html", "console"],
+  "ignore": [
+    "**/node_modules/**",
+    "**/.next/**",
+    "**/dist/**",
+    "**/generated/**",
+    "**/storybook-static/**",
+    "**/*.min.js",
+    "**/*.d.ts",
+    "**/pnpm-lock.yaml",
+    "**/*.stories.tsx",
+    "**/packages/design-system/components/ui/**",
+    "**/docs/components/ui/**"
+  ],
+  "format": ["typescript", "tsx", "javascript", "jsx"],
+  "absolute": true,
+  "gitignore": true,
+  "minLines": 10,
+  "minTokens": 50,
+  "output": "./reports/cpd"
+}

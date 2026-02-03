@@ -1,0 +1,2986 @@
+{
+  "statistics": {
+    "detectionDate": "2026-02-03T16:57:14.605Z",
+    "formats": {
+      "javascript": {
+        "sources": {
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/features/index.tsx": {
+            "lines": 14,
+            "tokens": 108,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/apps/index.tsx": {
+            "lines": 31,
+            "tokens": 245,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/og/[...slug]/route.tsx": {
+            "lines": 22,
+            "tokens": 126,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/docs/[[...slug]]/page.tsx": {
+            "lines": 5,
+            "tokens": 57,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/video.tsx": {
+            "lines": 6,
+            "tokens": 34,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/social.tsx": {
+            "lines": 3,
+            "tokens": 34,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/installer.tsx": {
+            "lines": 4,
+            "tokens": 33,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/demo.tsx": {
+            "lines": 13,
+            "tokens": 123,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/webhooks/page.tsx": {
+            "lines": 0,
+            "tokens": 5,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/search/page.tsx": {
+            "lines": 4,
+            "tokens": 77,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/components/sidebar.tsx": {
+            "lines": 113,
+            "tokens": 810,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/components/search.tsx": {
+            "lines": 13,
+            "tokens": 80,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/components/header.tsx": {
+            "lines": 0,
+            "tokens": 3,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/docs/layout.tsx": {
+            "lines": 0,
+            "tokens": 8,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/layout.tsx": {
+            "lines": 0,
+            "tokens": 8,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/page.tsx": {
+            "lines": 4,
+            "tokens": 77,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/design-system/components/mode-toggle.tsx": {
+            "lines": 0,
+            "tokens": 17,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/ai/components/thread.tsx": {
+            "lines": 3,
+            "tokens": 9,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/ai/components/message.tsx": {
+            "lines": 5,
+            "tokens": 23,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/theme-toggle.tsx": {
+            "lines": 0,
+            "tokens": 3,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/sidebar.tsx": {
+            "lines": 76,
+            "tokens": 606,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/search.tsx": {
+            "lines": 30,
+            "tokens": 195,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/scroll-top.tsx": {
+            "lines": 0,
+            "tokens": 3,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/provider.tsx": {
+            "lines": 12,
+            "tokens": 52,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/open-in-chat.tsx": {
+            "lines": 0,
+            "tokens": 3,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/navbar.tsx": {
+            "lines": 0,
+            "tokens": 3,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/mobile-menu.tsx": {
+            "lines": 0,
+            "tokens": 12,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/message-metadata.tsx": {
+            "lines": 8,
+            "tokens": 109,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/mermaid.tsx": {
+            "lines": 0,
+            "tokens": 3,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/mdx-components.tsx": {
+            "lines": 3,
+            "tokens": 31,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/language-selector.tsx": {
+            "lines": 2,
+            "tokens": 32,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/installer.tsx": {
+            "lines": 8,
+            "tokens": 70,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/github-button.tsx": {
+            "lines": 0,
+            "tokens": 3,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/feedback.tsx": {
+            "lines": 40,
+            "tokens": 328,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/edit-source.tsx": {
+            "lines": 0,
+            "tokens": 3,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/docs-page.tsx": {
+            "lines": 13,
+            "tokens": 105,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/desktop-menu.tsx": {
+            "lines": 19,
+            "tokens": 155,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/copy-page.tsx": {
+            "lines": 0,
+            "tokens": 3,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/copy-chat.tsx": {
+            "lines": 1,
+            "tokens": 14,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/code-block.tsx": {
+            "lines": 52,
+            "tokens": 298,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/code-block-tabs.tsx": {
+            "lines": 46,
+            "tokens": 236,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/chat.tsx": {
+            "lines": 179,
+            "tokens": 1243,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/callout.tsx": {
+            "lines": 3,
+            "tokens": 9,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/ask-ai.tsx": {
+            "lines": 3,
+            "tokens": 22,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/suggestion.tsx": {
+            "lines": 31,
+            "tokens": 228,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/sources.tsx": {
+            "lines": 49,
+            "tokens": 312,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx": {
+            "lines": 154,
+            "tokens": 1356,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/message.tsx": {
+            "lines": 411,
+            "tokens": 2635,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/conversation.tsx": {
+            "lines": 76,
+            "tokens": 487,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/code-block.tsx": {
+            "lines": 73,
+            "tokens": 529,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/layout.tsx": {
+            "lines": 5,
+            "tokens": 40,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/storybook/scripts/skip-ci.js": {
+            "lines": 9,
+            "tokens": 82,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/scripts/skip-ci.js": {
+            "lines": 9,
+            "tokens": 82,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/layout.tsx": {
+            "lines": 9,
+            "tokens": 74,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/global-error.tsx": {
+            "lines": 3,
+            "tokens": 48,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/__tests__/global-error.test.tsx": {
+            "lines": 10,
+            "tokens": 107,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/api/scripts/skip-ci.js": {
+            "lines": 9,
+            "tokens": 82,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/api/app/global-error.tsx": {
+            "lines": 3,
+            "tokens": 48,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/api/__tests__/global-error.test.tsx": {
+            "lines": 10,
+            "tokens": 107,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/design-system/index.tsx": {
+            "lines": 0,
+            "tokens": 15,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/auth/provider.tsx": {
+            "lines": 0,
+            "tokens": 11,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/analytics/provider.tsx": {
+            "lines": 0,
+            "tokens": 3,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/vercel.tsx": {
+            "lines": 6,
+            "tokens": 38,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          }
+        },
+        "total": {
+          "lines": 1602,
+          "tokens": 11702,
+          "sources": 63,
+          "clones": 0,
+          "duplicatedLines": 0,
+          "duplicatedTokens": 0,
+          "percentage": 0,
+          "percentageTokens": 0,
+          "newDuplicatedLines": 0,
+          "newClones": 0
+        }
+      },
+      "tsx": {
+        "sources": {
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/features/index.tsx": {
+            "lines": 214,
+            "tokens": 1350,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/apps/index.tsx": {
+            "lines": 120,
+            "tokens": 810,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(unauthenticated)/sign-up/[[...sign-up]]/page.tsx": {
+            "lines": 13,
+            "tokens": 124,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(unauthenticated)/sign-in/[[...sign-in]]/page.tsx": {
+            "lines": 13,
+            "tokens": 124,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/og/[...slug]/route.tsx": {
+            "lines": 94,
+            "tokens": 697,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/docs/[[...slug]]/page.tsx": {
+            "lines": 102,
+            "tokens": 930,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/video.tsx": {
+            "lines": 25,
+            "tokens": 199,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/social.tsx": {
+            "lines": 178,
+            "tokens": 491,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/installer.tsx": {
+            "lines": 33,
+            "tokens": 245,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/hero.tsx": {
+            "lines": 70,
+            "tokens": 567,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/demo.tsx": {
+            "lines": 28,
+            "tokens": 236,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/components/cta.tsx": {
+            "lines": 20,
+            "tokens": 201,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/webhooks/page.tsx": {
+            "lines": 28,
+            "tokens": 182,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/search/page.tsx": {
+            "lines": 58,
+            "tokens": 472,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 15,
+            "duplicatedTokens": 139,
+            "percentage": 25.86,
+            "percentageTokens": 29.45,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/components/sidebar.tsx": {
+            "lines": 346,
+            "tokens": 2083,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/components/search.tsx": {
+            "lines": 25,
+            "tokens": 208,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/components/header.tsx": {
+            "lines": 42,
+            "tokens": 359,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/docs/layout.tsx": {
+            "lines": 9,
+            "tokens": 107,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/page.tsx": {
+            "lines": 25,
+            "tokens": 197,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/(home)/layout.tsx": {
+            "lines": 13,
+            "tokens": 129,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(unauthenticated)/layout.tsx": {
+            "lines": 38,
+            "tokens": 344,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/page.tsx": {
+            "lines": 39,
+            "tokens": 341,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 15,
+            "duplicatedTokens": 139,
+            "percentage": 38.46,
+            "percentageTokens": 40.76,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/layout.tsx": {
+            "lines": 32,
+            "tokens": 252,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/email/templates/contact.tsx": {
+            "lines": 53,
+            "tokens": 363,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/design-system/providers/theme.tsx": {
+            "lines": 16,
+            "tokens": 100,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/design-system/components/mode-toggle.tsx": {
+            "lines": 43,
+            "tokens": 342,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/auth/components/sign-up.tsx": {
+            "lines": 10,
+            "tokens": 69,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/auth/components/sign-in.tsx": {
+            "lines": 10,
+            "tokens": 69,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/ai/components/thread.tsx": {
+            "lines": 15,
+            "tokens": 106,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/ai/components/message.tsx": {
+            "lines": 21,
+            "tokens": 175,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/video.tsx": {
+            "lines": 15,
+            "tokens": 107,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/theme-toggle.tsx": {
+            "lines": 19,
+            "tokens": 198,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/sidebar.tsx": {
+            "lines": 118,
+            "tokens": 943,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/search.tsx": {
+            "lines": 74,
+            "tokens": 520,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/scroll-top.tsx": {
+            "lines": 20,
+            "tokens": 158,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/rss-button.tsx": {
+            "lines": 9,
+            "tokens": 113,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/provider.tsx": {
+            "lines": 51,
+            "tokens": 366,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/open-in-chat.tsx": {
+            "lines": 48,
+            "tokens": 331,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/navbar.tsx": {
+            "lines": 29,
+            "tokens": 304,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/mobile-menu.tsx": {
+            "lines": 19,
+            "tokens": 145,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/message-metadata.tsx": {
+            "lines": 83,
+            "tokens": 698,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/mermaid.tsx": {
+            "lines": 67,
+            "tokens": 575,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/mdx-components.tsx": {
+            "lines": 54,
+            "tokens": 326,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/language-selector.tsx": {
+            "lines": 42,
+            "tokens": 309,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/installer.tsx": {
+            "lines": 57,
+            "tokens": 419,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/icons.tsx": {
+            "lines": 12,
+            "tokens": 111,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/home-layout.tsx": {
+            "lines": 36,
+            "tokens": 255,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/github-button.tsx": {
+            "lines": 18,
+            "tokens": 188,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/footer.tsx": {
+            "lines": 27,
+            "tokens": 245,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/feedback.tsx": {
+            "lines": 138,
+            "tokens": 1074,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/edit-source.tsx": {
+            "lines": 29,
+            "tokens": 230,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/docs-page.tsx": {
+            "lines": 34,
+            "tokens": 280,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/docs-layout.tsx": {
+            "lines": 41,
+            "tokens": 273,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/desktop-menu.tsx": {
+            "lines": 51,
+            "tokens": 375,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/copy-page.tsx": {
+            "lines": 26,
+            "tokens": 199,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/copy-chat.tsx": {
+            "lines": 55,
+            "tokens": 507,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/code-block.tsx": {
+            "lines": 124,
+            "tokens": 865,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/code-block-tabs.tsx": {
+            "lines": 60,
+            "tokens": 331,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/chat.tsx": {
+            "lines": 398,
+            "tokens": 3128,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/callout.tsx": {
+            "lines": 39,
+            "tokens": 288,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/geistdocs/ask-ai.tsx": {
+            "lines": 32,
+            "tokens": 260,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/suggestion.tsx": {
+            "lines": 55,
+            "tokens": 392,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/sources.tsx": {
+            "lines": 76,
+            "tokens": 509,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/shimmer.tsx": {
+            "lines": 63,
+            "tokens": 408,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx": {
+            "lines": 364,
+            "tokens": 2703,
+            "sources": 1,
+            "clones": 10,
+            "duplicatedLines": 100,
+            "duplicatedTokens": 890,
+            "percentage": 27.47,
+            "percentageTokens": 32.93,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/message.tsx": {
+            "lines": 447,
+            "tokens": 2902,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/conversation.tsx": {
+            "lines": 99,
+            "tokens": 676,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/code-block.tsx": {
+            "lines": 177,
+            "tokens": 1258,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/layout.tsx": {
+            "lines": 27,
+            "tokens": 218,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/storybook/__tests__/stories.test.tsx": {
+            "lines": 90,
+            "tokens": 962,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/storybook/.storybook/preview.tsx": {
+            "lines": 50,
+            "tokens": 318,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/layout.tsx": {
+            "lines": 30,
+            "tokens": 232,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/global-error.tsx": {
+            "lines": 33,
+            "tokens": 296,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 33,
+            "duplicatedTokens": 296,
+            "percentage": 100,
+            "percentageTokens": 100,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/__tests__/global-error.test.tsx": {
+            "lines": 48,
+            "tokens": 466,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 48,
+            "duplicatedTokens": 457,
+            "percentage": 100,
+            "percentageTokens": 98.07,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/api/app/layout.tsx": {
+            "lines": 15,
+            "tokens": 117,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/api/app/global-error.tsx": {
+            "lines": 33,
+            "tokens": 296,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 33,
+            "duplicatedTokens": 296,
+            "percentage": 100,
+            "percentageTokens": 100,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/api/__tests__/global-error.test.tsx": {
+            "lines": 48,
+            "tokens": 463,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 48,
+            "duplicatedTokens": 457,
+            "percentage": 100,
+            "percentageTokens": 98.7,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/design-system/index.tsx": {
+            "lines": 25,
+            "tokens": 210,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/auth/provider.tsx": {
+            "lines": 57,
+            "tokens": 422,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/analytics/provider.tsx": {
+            "lines": 19,
+            "tokens": 164,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/components/vercel.tsx": {
+            "lines": 61,
+            "tokens": 379,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/geistdocs.tsx": {
+            "lines": 36,
+            "tokens": 215,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          }
+        },
+        "total": {
+          "lines": 5411,
+          "tokens": 39599,
+          "sources": 82,
+          "clones": 8,
+          "duplicatedLines": 146,
+          "duplicatedTokens": 1337,
+          "percentage": 2.7,
+          "percentageTokens": 3.38,
+          "newDuplicatedLines": 0,
+          "newClones": 0
+        }
+      },
+      "typescript": {
+        "sources": {
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/llms.mdx/[[...slug]]/route.ts": {
+            "lines": 29,
+            "tokens": 234,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/api/app/cron/keep-alive/route.ts": {
+            "lines": 16,
+            "tokens": 129,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/api/search/route.ts": {
+            "lines": 50,
+            "tokens": 391,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/api/chat/utils.ts": {
+            "lines": 56,
+            "tokens": 68,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/api/chat/types.ts": {
+            "lines": 25,
+            "tokens": 215,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/api/chat/tools.ts": {
+            "lines": 221,
+            "tokens": 1829,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/api/chat/route.ts": {
+            "lines": 119,
+            "tokens": 793,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/actions/feedback/index.ts": {
+            "lines": 42,
+            "tokens": 409,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/actions/feedback/emotions.ts": {
+            "lines": 17,
+            "tokens": 95,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/rss.xml/route.ts": {
+            "lines": 45,
+            "tokens": 413,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/app/[lang]/llms.txt/route.ts": {
+            "lines": 14,
+            "tokens": 153,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/webhooks/lib/svix.ts": {
+            "lines": 50,
+            "tokens": 371,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/design-system/lib/utils.ts": {
+            "lines": 14,
+            "tokens": 188,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/design-system/lib/fonts.ts": {
+            "lines": 8,
+            "tokens": 67,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/design-system/hooks/use-mobile.ts": {
+            "lines": 18,
+            "tokens": 179,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 18,
+            "duplicatedTokens": 179,
+            "percentage": 100,
+            "percentageTokens": 100,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/ai/lib/models.ts": {
+            "lines": 11,
+            "tokens": 91,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/lib/geistdocs/source.ts": {
+            "lines": 28,
+            "tokens": 251,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/lib/geistdocs/i18n.ts": {
+            "lines": 12,
+            "tokens": 111,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/lib/geistdocs/fonts.ts": {
+            "lines": 17,
+            "tokens": 119,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/lib/geistdocs/db.ts": {
+            "lines": 19,
+            "tokens": 143,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/hooks/geistdocs/use-sidebar.ts": {
+            "lines": 12,
+            "tokens": 89,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/hooks/geistdocs/use-chat.ts": {
+            "lines": 22,
+            "tokens": 155,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/storybook/.storybook/main.ts": {
+            "lines": 30,
+            "tokens": 204,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/turbo/generators/config.ts": {
+            "lines": 36,
+            "tokens": 248,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/webhooks/keys.ts": {
+            "lines": 13,
+            "tokens": 122,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/storage/keys.ts": {
+            "lines": 11,
+            "tokens": 94,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/security/proxy.ts": {
+            "lines": 17,
+            "tokens": 103,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/security/keys.ts": {
+            "lines": 11,
+            "tokens": 99,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/security/index.ts": {
+            "lines": 49,
+            "tokens": 354,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/rate-limit/keys.ts": {
+            "lines": 13,
+            "tokens": 120,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/rate-limit/index.ts": {
+            "lines": 16,
+            "tokens": 175,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/next-config/keys.ts": {
+            "lines": 37,
+            "tokens": 379,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/next-config/index.ts": {
+            "lines": 37,
+            "tokens": 222,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/logger/server.ts": {
+            "lines": 47,
+            "tokens": 476,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/logger/redact.ts": {
+            "lines": 101,
+            "tokens": 434,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/logger/keys.ts": {
+            "lines": 14,
+            "tokens": 123,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/logger/client.ts": {
+            "lines": 97,
+            "tokens": 1012,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/email/keys.ts": {
+            "lines": 13,
+            "tokens": 121,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/database/prisma.config.ts": {
+            "lines": 15,
+            "tokens": 121,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/database/keys.ts": {
+            "lines": 11,
+            "tokens": 90,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/database/index.ts": {
+            "lines": 21,
+            "tokens": 194,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/auth/keys.ts": {
+            "lines": 29,
+            "tokens": 257,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/analytics/server.ts": {
+            "lines": 10,
+            "tokens": 84,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/analytics/keys.ts": {
+            "lines": 15,
+            "tokens": 148,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/analytics/instrumentation-client.ts": {
+            "lines": 8,
+            "tokens": 76,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/packages/ai/keys.ts": {
+            "lines": 11,
+            "tokens": 99,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/hooks/use-mobile.ts": {
+            "lines": 18,
+            "tokens": 179,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 18,
+            "duplicatedTokens": 179,
+            "percentage": 100,
+            "percentageTokens": 100,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/storybook/vitest.config.mts": {
+            "lines": 16,
+            "tokens": 129,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/vitest.config.mts": {
+            "lines": 32,
+            "tokens": 220,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 32,
+            "duplicatedTokens": 220,
+            "percentage": 100,
+            "percentageTokens": 100,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/proxy.ts": {
+            "lines": 21,
+            "tokens": 128,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/next.config.ts": {
+            "lines": 10,
+            "tokens": 96,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 10,
+            "duplicatedTokens": 96,
+            "percentage": 100,
+            "percentageTokens": 100,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/app/env.ts": {
+            "lines": 22,
+            "tokens": 223,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/api/vitest.config.mts": {
+            "lines": 32,
+            "tokens": 220,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 32,
+            "duplicatedTokens": 220,
+            "percentage": 100,
+            "percentageTokens": 100,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/api/next.config.ts": {
+            "lines": 10,
+            "tokens": 96,
+            "sources": 1,
+            "clones": 1,
+            "duplicatedLines": 10,
+            "duplicatedTokens": 96,
+            "percentage": 100,
+            "percentageTokens": 100,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/apps/api/env.ts": {
+            "lines": 18,
+            "tokens": 177,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/scripts/utils.ts": {
+            "lines": 54,
+            "tokens": 539,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/scripts/update.ts": {
+            "lines": 213,
+            "tokens": 1859,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/scripts/initialize.ts": {
+            "lines": 275,
+            "tokens": 2325,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/scripts/index.ts": {
+            "lines": 24,
+            "tokens": 165,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/e2e/home.spec.ts": {
+            "lines": 33,
+            "tokens": 370,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/source.config.ts": {
+            "lines": 29,
+            "tokens": 169,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/proxy.ts": {
+            "lines": 31,
+            "tokens": 283,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/docs/next.config.ts": {
+            "lines": 36,
+            "tokens": 208,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/tsup.config.ts": {
+            "lines": 9,
+            "tokens": 73,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          },
+          "/Users/domsylvester/Documents/Dev/next-forge/playwright.config.ts": {
+            "lines": 42,
+            "tokens": 351,
+            "sources": 1,
+            "clones": 0,
+            "duplicatedLines": 0,
+            "duplicatedTokens": 0,
+            "percentage": 0,
+            "percentageTokens": 0,
+            "newDuplicatedLines": 0,
+            "newClones": 0
+          }
+        },
+        "total": {
+          "lines": 2432,
+          "tokens": 19658,
+          "sources": 65,
+          "clones": 3,
+          "duplicatedLines": 60,
+          "duplicatedTokens": 495,
+          "percentage": 2.47,
+          "percentageTokens": 2.52,
+          "newDuplicatedLines": 0,
+          "newClones": 0
+        }
+      }
+    },
+    "total": {
+      "lines": 9445,
+      "tokens": 70959,
+      "sources": 210,
+      "clones": 11,
+      "duplicatedLines": 206,
+      "duplicatedTokens": 1832,
+      "percentage": 2.18,
+      "percentageTokens": 2.58,
+      "newDuplicatedLines": 0,
+      "newClones": 0
+    }
+  },
+  "duplicates": [
+    {
+      "format": "tsx",
+      "lines": 16,
+      "fragment": "\" pages={[\"Building Your Application\"]} />\n      <div className=\"flex flex-1 flex-col gap-4 p-4 pt-0\">\n        <div className=\"grid auto-rows-min gap-4 md:grid-cols-3\">\n          {pages.map((page: { id: string; name: string }) => (\n            <div className=\"aspect-video rounded-xl bg-muted/50\" key={page.id}>\n              {page.name}\n            </div>\n          ))}\n        </div>\n        <div className=\"min-h-[100vh] flex-1 rounded-xl bg-muted/50 md:min-h-min\" />\n      </div>\n    </>\n  );\n};\n\nexport default App",
+      "tokens": 0,
+      "firstFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/page.tsx",
+        "start": 25,
+        "end": 40,
+        "startLoc": {
+          "line": 25,
+          "column": 14,
+          "position": 201
+        },
+        "endLoc": {
+          "line": 40,
+          "column": 4,
+          "position": 340
+        }
+      },
+      "secondFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/(authenticated)/search/page.tsx",
+        "start": 44,
+        "end": 59,
+        "startLoc": {
+          "line": 44,
+          "column": 7,
+          "position": 332
+        },
+        "endLoc": {
+          "line": 59,
+          "column": 11,
+          "position": 471
+        }
+      }
+    },
+    {
+      "format": "tsx",
+      "lines": 11,
+      "fragment": ") => {\n  const { query } = useOpenInContext();\n  return (\n    <DropdownMenuItem asChild {...props}>\n      <a\n        className=\"flex items-center gap-2\"\n        href={providers.claude.createUrl(query)}\n        rel=\"noopener\"\n        target=\"_blank\"\n      >\n        <span className=\"shrink-0\">{providers.claude",
+      "tokens": 0,
+      "firstFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx",
+        "start": 269,
+        "end": 279,
+        "startLoc": {
+          "line": 269,
+          "column": 18,
+          "position": 1846
+        },
+        "endLoc": {
+          "line": 279,
+          "column": 7,
+          "position": 1935
+        }
+      },
+      "secondFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx",
+        "start": 249,
+        "end": 259,
+        "startLoc": {
+          "line": 249,
+          "column": 19,
+          "position": 1668
+        },
+        "endLoc": {
+          "line": 259,
+          "column": 8,
+          "position": 1757
+        }
+      }
+    },
+    {
+      "format": "tsx",
+      "lines": 11,
+      "fragment": ") => {\n  const { query } = useOpenInContext();\n  return (\n    <DropdownMenuItem asChild {...props}>\n      <a\n        className=\"flex items-center gap-2\"\n        href={providers.t3.createUrl(query)}\n        rel=\"noopener\"\n        target=\"_blank\"\n      >\n        <span className=\"shrink-0\">{providers.t3",
+      "tokens": 0,
+      "firstFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx",
+        "start": 289,
+        "end": 299,
+        "startLoc": {
+          "line": 289,
+          "column": 14,
+          "position": 2024
+        },
+        "endLoc": {
+          "line": 299,
+          "column": 3,
+          "position": 2113
+        }
+      },
+      "secondFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx",
+        "start": 249,
+        "end": 259,
+        "startLoc": {
+          "line": 249,
+          "column": 19,
+          "position": 1668
+        },
+        "endLoc": {
+          "line": 259,
+          "column": 8,
+          "position": 1757
+        }
+      }
+    },
+    {
+      "format": "tsx",
+      "lines": 11,
+      "fragment": ") => {\n  const { query } = useOpenInContext();\n  return (\n    <DropdownMenuItem asChild {...props}>\n      <a\n        className=\"flex items-center gap-2\"\n        href={providers.scira.createUrl(query)}\n        rel=\"noopener\"\n        target=\"_blank\"\n      >\n        <span className=\"shrink-0\">{providers.scira",
+      "tokens": 0,
+      "firstFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx",
+        "start": 309,
+        "end": 319,
+        "startLoc": {
+          "line": 309,
+          "column": 17,
+          "position": 2202
+        },
+        "endLoc": {
+          "line": 319,
+          "column": 6,
+          "position": 2291
+        }
+      },
+      "secondFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx",
+        "start": 249,
+        "end": 259,
+        "startLoc": {
+          "line": 249,
+          "column": 19,
+          "position": 1668
+        },
+        "endLoc": {
+          "line": 259,
+          "column": 8,
+          "position": 1757
+        }
+      }
+    },
+    {
+      "format": "tsx",
+      "lines": 11,
+      "fragment": ") => {\n  const { query } = useOpenInContext();\n  return (\n    <DropdownMenuItem asChild {...props}>\n      <a\n        className=\"flex items-center gap-2\"\n        href={providers.v0.createUrl(query)}\n        rel=\"noopener\"\n        target=\"_blank\"\n      >\n        <span className=\"shrink-0\">{providers.v0",
+      "tokens": 0,
+      "firstFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx",
+        "start": 329,
+        "end": 339,
+        "startLoc": {
+          "line": 329,
+          "column": 14,
+          "position": 2380
+        },
+        "endLoc": {
+          "line": 339,
+          "column": 3,
+          "position": 2469
+        }
+      },
+      "secondFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx",
+        "start": 249,
+        "end": 259,
+        "startLoc": {
+          "line": 249,
+          "column": 19,
+          "position": 1668
+        },
+        "endLoc": {
+          "line": 259,
+          "column": 8,
+          "position": 1757
+        }
+      }
+    },
+    {
+      "format": "tsx",
+      "lines": 11,
+      "fragment": ") => {\n  const { query } = useOpenInContext();\n  return (\n    <DropdownMenuItem asChild {...props}>\n      <a\n        className=\"flex items-center gap-2\"\n        href={providers.cursor.createUrl(query)}\n        rel=\"noopener\"\n        target=\"_blank\"\n      >\n        <span className=\"shrink-0\">{providers.cursor",
+      "tokens": 0,
+      "firstFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx",
+        "start": 349,
+        "end": 359,
+        "startLoc": {
+          "line": 349,
+          "column": 18,
+          "position": 2558
+        },
+        "endLoc": {
+          "line": 359,
+          "column": 7,
+          "position": 2647
+        }
+      },
+      "secondFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/docs/components/ai-elements/open-in-chat.tsx",
+        "start": 249,
+        "end": 259,
+        "startLoc": {
+          "line": 249,
+          "column": 19,
+          "position": 1668
+        },
+        "endLoc": {
+          "line": 259,
+          "column": 8,
+          "position": 1757
+        }
+      }
+    },
+    {
+      "format": "tsx",
+      "lines": 34,
+      "fragment": "\"use client\";\n\nimport { Button } from \"@repo/design-system/components/ui/button\";\nimport { fonts } from \"@repo/design-system/lib/fonts\";\nimport { createLogger } from \"@repo/logger/client\";\nimport type NextError from \"next/error\";\nimport { useEffect } from \"react\";\n\nconst logger = createLogger(\"global-error\");\n\ntype GlobalErrorProperties = {\n  readonly error: NextError & { digest?: string };\n  readonly reset: () => void;\n};\n\nconst GlobalError = ({ error, reset }: GlobalErrorProperties) => {\n  useEffect(() => {\n    logger.error(\"Unhandled error occurred\", {\n      message: error.message,\n      digest: error.digest,\n    });\n  }, [error]);\n\n  return (\n    <html className={fonts} lang=\"en\">\n      <body>\n        <h1>Oops, something went wrong</h1>\n        <Button onClick={() => reset()}>Try again</Button>\n      </body>\n    </html>\n  );\n};\n\nexport default GlobalError;",
+      "tokens": 0,
+      "firstFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/apps/api/app/global-error.tsx",
+        "start": 1,
+        "end": 34,
+        "startLoc": {
+          "line": 1,
+          "column": 1,
+          "position": 0
+        },
+        "endLoc": {
+          "line": 34,
+          "column": 2,
+          "position": 296
+        }
+      },
+      "secondFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/apps/app/app/global-error.tsx",
+        "start": 1,
+        "end": 34,
+        "startLoc": {
+          "line": 1,
+          "column": 1,
+          "position": 0
+        },
+        "endLoc": {
+          "line": 34,
+          "column": 2,
+          "position": 296
+        }
+      }
+    },
+    {
+      "format": "tsx",
+      "lines": 49,
+      "fragment": "} from \"@testing-library/react\";\nimport { describe, expect, test, vi, beforeEach } from \"vitest\";\nimport GlobalError from \"../app/global-error\";\n\nvi.mock(\"@repo/logger/client\", () => ({\n  createLogger: () => ({\n    error: vi.fn(),\n    warn: vi.fn(),\n    info: vi.fn(),\n    debug: vi.fn(),\n  }),\n}));\n\nvi.mock(\"@repo/design-system/lib/fonts\", () => ({\n  fonts: \"mock-fonts\",\n}));\n\ndescribe(\"GlobalError\", () => {\n  const mockError = {\n    message: \"Test error message\",\n    digest: \"test-digest-123\",\n  } as Error & { digest: string };\n\n  beforeEach(() => {\n    document.body.innerHTML = \"\";\n    document.head.innerHTML = \"\";\n  });\n\n  test(\"renders error page with try again button\", () => {\n    const resetMock = vi.fn();\n    const { container } = render(\n      <GlobalError error={mockError} reset={resetMock} />\n    );\n\n    expect(container.textContent).toContain(\"Oops, something went wrong\");\n    expect(container.textContent).toContain(\"Try again\");\n  });\n\n  test(\"renders button element\", () => {\n    const resetMock = vi.fn();\n    const { container } = render(\n      <GlobalError error={mockError} reset={resetMock} />\n    );\n\n    const button = container.querySelector(\"button\");\n    expect(button).toBeDefined();\n    expect(button?.textContent).toContain(\"Try again\");\n  });\n});",
+      "tokens": 0,
+      "firstFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/apps/api/__tests__/global-error.test.tsx",
+        "start": 1,
+        "end": 49,
+        "startLoc": {
+          "line": 1,
+          "column": 2,
+          "position": 6
+        },
+        "endLoc": {
+          "line": 49,
+          "column": 2,
+          "position": 463
+        }
+      },
+      "secondFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/apps/app/__tests__/global-error.test.tsx",
+        "start": 1,
+        "end": 49,
+        "startLoc": {
+          "line": 1,
+          "column": 2,
+          "position": 9
+        },
+        "endLoc": {
+          "line": 49,
+          "column": 2,
+          "position": 466
+        }
+      }
+    },
+    {
+      "format": "typescript",
+      "lines": 19,
+      "fragment": "import * as React from \"react\"\n\nconst MOBILE_BREAKPOINT = 768\n\nexport function useIsMobile() {\n  const [isMobile, setIsMobile] = React.useState<boolean | undefined>(undefined)\n\n  React.useEffect(() => {\n    const mql = window.matchMedia(`(max-width: ${MOBILE_BREAKPOINT - 1}px)`)\n    const onChange = () => {\n      setIsMobile(window.innerWidth < MOBILE_BREAKPOINT)\n    }\n    mql.addEventListener(\"change\", onChange)\n    setIsMobile(window.innerWidth < MOBILE_BREAKPOINT)\n    return () => mql.removeEventListener(\"change\", onChange)\n  }, [])\n\n  return !!isMobile\n}",
+      "tokens": 0,
+      "firstFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/docs/hooks/use-mobile.ts",
+        "start": 1,
+        "end": 19,
+        "startLoc": {
+          "line": 1,
+          "column": 1,
+          "position": 0
+        },
+        "endLoc": {
+          "line": 19,
+          "column": 2,
+          "position": 179
+        }
+      },
+      "secondFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/packages/design-system/hooks/use-mobile.ts",
+        "start": 1,
+        "end": 19,
+        "startLoc": {
+          "line": 1,
+          "column": 1,
+          "position": 0
+        },
+        "endLoc": {
+          "line": 19,
+          "column": 2,
+          "position": 179
+        }
+      }
+    },
+    {
+      "format": "typescript",
+      "lines": 33,
+      "fragment": "import path from \"node:path\";\nimport react from \"@vitejs/plugin-react\";\nimport { defineConfig } from \"vitest/config\";\n\nexport default defineConfig({\n  plugins: [react()],\n  test: {\n    environment: \"jsdom\",\n    coverage: {\n      provider: \"v8\",\n      reporter: [\"text\", \"json\", \"html\"],\n      thresholds: {\n        statements: 60,\n        branches: 60,\n        functions: 60,\n        lines: 60,\n      },\n      exclude: [\n        \"node_modules/**\",\n        \"**/*.stories.tsx\",\n        \"**/*.config.*\",\n        \"**/*.d.ts\",\n        \".next/**\",\n      ],\n    },\n  },\n  resolve: {\n    alias: {\n      \"@\": path.resolve(__dirname, \"./\"),\n      \"@repo\": path.resolve(__dirname, \"../../packages\"),\n    },\n  },\n});",
+      "tokens": 0,
+      "firstFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/apps/api/vitest.config.mts",
+        "start": 1,
+        "end": 33,
+        "startLoc": {
+          "line": 1,
+          "column": 1,
+          "position": 0
+        },
+        "endLoc": {
+          "line": 33,
+          "column": 2,
+          "position": 220
+        }
+      },
+      "secondFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/apps/app/vitest.config.mts",
+        "start": 1,
+        "end": 33,
+        "startLoc": {
+          "line": 1,
+          "column": 1,
+          "position": 0
+        },
+        "endLoc": {
+          "line": 33,
+          "column": 2,
+          "position": 220
+        }
+      }
+    },
+    {
+      "format": "typescript",
+      "lines": 11,
+      "fragment": "import { config, withAnalyzer } from \"@repo/next-config\";\nimport type { NextConfig } from \"next\";\nimport { env } from \"@/env\";\n\nlet nextConfig: NextConfig = { ...config };\n\nif (env.ANALYZE === \"true\") {\n  nextConfig = withAnalyzer(nextConfig);\n}\n\nexport default nextConfig;",
+      "tokens": 0,
+      "firstFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/apps/api/next.config.ts",
+        "start": 1,
+        "end": 11,
+        "startLoc": {
+          "line": 1,
+          "column": 1,
+          "position": 0
+        },
+        "endLoc": {
+          "line": 11,
+          "column": 2,
+          "position": 96
+        }
+      },
+      "secondFile": {
+        "name": "/Users/domsylvester/Documents/Dev/next-forge/apps/app/next.config.ts",
+        "start": 1,
+        "end": 11,
+        "startLoc": {
+          "line": 1,
+          "column": 1,
+          "position": 0
+        },
+        "endLoc": {
+          "line": 11,
+          "column": 2,
+          "position": 96
+        }
+      }
+    }
+  ],
+  "filename": "/Users/domsylvester/Documents/Dev/next-forge/node_modules/.pnpm/@jscpd+html-reporter@4.0.4/node_modules/@jscpd/html-reporter/dist/templates/main.pug"
+}
