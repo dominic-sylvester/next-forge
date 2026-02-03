@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest"],
+      "env": {
+        "DISPLAY": ":0"
+      }
+    },
+    "next-devtools": {
+      "command": "npx",
+      "args": ["next-devtools-mcp@latest"],
+      "env": {
+        "NEXT_DEV_PORT": "3000"
+      }
+    }
+  }
+}
