@@ -1,0 +1,32 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "entryPoints": [
+    "packages/analytics/index.ts",
+    "packages/auth/server.ts",
+    "packages/auth/client.ts",
+    "packages/database/index.ts",
+    "packages/design-system/components/index.ts",
+    "packages/email/index.ts",
+    "packages/logger/index.ts",
+    "packages/next-config/index.ts",
+    "packages/rate-limit/index.ts",
+    "packages/security/index.ts",
+    "packages/storage/index.ts",
+    "packages/webhooks/index.ts",
+    "packages/ai/index.ts"
+  ],
+  "out": "docs-generated",
+  "name": "next-forge API Documentation",
+  "readme": "README.md",
+  "includeVersion": true,
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "excludeInternal": true,
+  "excludeExternals": true,
+  "skipErrorChecking": true,
+  "categorizeByGroup": true,
+  "navigationLinks": {
+    "Repository": "https://github.com/dominic-sylvester/next-forge",
+    "Documentation": "https://docs.next-forge.com"
+  }
+}
