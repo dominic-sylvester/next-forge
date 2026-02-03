@@ -11,10 +11,10 @@ import {
 import { useIsMobile } from "@/hooks/use-mobile";
 import { cn } from "@/lib/utils";
 
-type DesktopMenuProps = {
+interface DesktopMenuProps {
   items: { label: string; href: string }[];
   className?: string;
-};
+}
 
 export const DesktopMenu = ({ items, className }: DesktopMenuProps) => {
   const isMobile = useIsMobile();

@@ -5,9 +5,9 @@ import type { ReactNode } from "react";
 import { env } from "@/env";
 import { GlobalSidebar } from "./components/sidebar";
 
-type AppLayoutProperties = {
+interface AppLayoutProperties {
   readonly children: ReactNode;
-};
+}
 
 const AppLayout = async ({ children }: AppLayoutProperties) => {
   if (env.ARCJET_KEY) {
@@ -23,9 +23,7 @@ const AppLayout = async ({ children }: AppLayoutProperties) => {
 
   return (
     <SidebarProvider>
-      <GlobalSidebar>
-        {children}
-      </GlobalSidebar>
+      <GlobalSidebar>{children}</GlobalSidebar>
     </SidebarProvider>
   );
 };

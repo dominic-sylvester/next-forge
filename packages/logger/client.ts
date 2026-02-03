@@ -22,8 +22,14 @@ const SENSITIVE_KEYS = [
 const REDACT_PATTERNS = [
   { regex: /\b\d{4}[- ]?\d{4}[- ]?\d{4}[- ]?\d{4}\b/g, replacement: "[CARD]" },
   { regex: /\b\d{3}[- ]?\d{2}[- ]?\d{4}\b/g, replacement: "[SSN]" },
-  { regex: /eyJ[A-Za-z0-9_-]*\.eyJ[A-Za-z0-9_-]*\.[A-Za-z0-9_-]*/g, replacement: "[JWT]" },
-  { regex: /\b(sk_live_|sk_test_|pk_live_|pk_test_)[A-Za-z0-9]{20,}\b/g, replacement: "[KEY]" },
+  {
+    regex: /eyJ[A-Za-z0-9_-]*\.eyJ[A-Za-z0-9_-]*\.[A-Za-z0-9_-]*/g,
+    replacement: "[JWT]",
+  },
+  {
+    regex: /\b(sk_live_|sk_test_|pk_live_|pk_test_)[A-Za-z0-9]{20,}\b/g,
+    replacement: "[KEY]",
+  },
   { regex: /\b(sk-)[A-Za-z0-9]{32,}\b/g, replacement: "[KEY]" },
 ];
 

@@ -1,9 +1,9 @@
 import { composeStories } from "@storybook/react";
-import { render, cleanup } from "@testing-library/react";
-import { describe, expect, test, afterEach } from "vitest";
-import * as ButtonStories from "../stories/button.stories";
-import * as BadgeStories from "../stories/badge.stories";
+import { cleanup, render } from "@testing-library/react";
+import { afterEach, describe, expect, test } from "vitest";
 import * as AlertStories from "../stories/alert.stories";
+import * as BadgeStories from "../stories/badge.stories";
+import * as ButtonStories from "../stories/button.stories";
 
 afterEach(() => {
   cleanup();

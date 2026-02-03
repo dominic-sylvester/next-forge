@@ -1,9 +1,11 @@
-import { test, expect } from "@playwright/test";
+import { expect, test } from "@playwright/test";
+
+const TITLE_PATTERN = /next-forge|app/i;
 
 test.describe("Home Page", () => {
   test("should load the home page", async ({ page }) => {
     await page.goto("/");
-    await expect(page).toHaveTitle(/next-forge|app/i);
+    await expect(page).toHaveTitle(TITLE_PATTERN);
   });
 
   test("should have working navigation", async ({ page }) => {

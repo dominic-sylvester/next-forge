@@ -3,7 +3,7 @@ import { config } from "dotenv";
 import { defineConfig } from "prisma/config";
 
 // Load environment variables from .env.local
-config({ path: resolve(__dirname, ".env.local") });
+config({ path: resolve(import.meta.dirname, ".env.local") });
 
 export default defineConfig({
   schema: "prisma/models",

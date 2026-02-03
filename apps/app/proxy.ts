@@ -1,8 +1,5 @@
 import { authMiddleware } from "@repo/auth/proxy";
-import {
-  noseconeOptions,
-  securityMiddleware,
-} from "@repo/security/proxy";
+import { noseconeOptions, securityMiddleware } from "@repo/security/proxy";
 import type { NextProxy } from "next/server";
 
 const securityHeaders = securityMiddleware(noseconeOptions);

@@ -96,7 +96,7 @@ export const redactPatterns = [
   // },
 ];
 
-export type RedactPattern = {
+export interface RedactPattern {
   regex: RegExp;
   replacement: string;
-};
+}

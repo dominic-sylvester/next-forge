@@ -8,10 +8,10 @@ import { useEffect } from "react";
 
 const logger = createLogger("global-error");
 
-type GlobalErrorProperties = {
+interface GlobalErrorProperties {
   readonly error: NextError & { digest?: string };
   readonly reset: () => void;
-};
+}
 
 const GlobalError = ({ error, reset }: GlobalErrorProperties) => {
   useEffect(() => {

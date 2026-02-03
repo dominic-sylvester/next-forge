@@ -1,5 +1,5 @@
-import { render, screen } from "@testing-library/react";
-import { describe, expect, test, vi, beforeEach } from "vitest";
+import { render } from "@testing-library/react";
+import { beforeEach, describe, expect, test, vi } from "vitest";
 import GlobalError from "../app/global-error";
 
 vi.mock("@repo/logger/client", () => ({

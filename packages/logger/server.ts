@@ -1,6 +1,6 @@
 import pino from "pino";
 import { keys } from "./keys";
-import { redactPatterns, redactPaths } from "./redact";
+import { redactPaths, redactPatterns } from "./redact";
 
 const env = keys();
 

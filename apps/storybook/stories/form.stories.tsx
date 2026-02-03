@@ -8,9 +8,9 @@ import {
   FormLabel,
   FormMessage,
 } from "@repo/design-system/components/ui/form";
-import { action } from "storybook/actions";
 import type { Meta, StoryObj } from "@storybook/react";
 import { useForm } from "react-hook-form";
+import { action } from "storybook/actions";
 import * as z from "zod";
 
 /**

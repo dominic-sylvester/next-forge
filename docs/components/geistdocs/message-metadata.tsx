@@ -10,10 +10,10 @@ import {
 } from "../ai-elements/sources";
 import { Spinner } from "../ui/spinner";
 
-type MessageMetadataProps = {
+interface MessageMetadataProps {
   parts: MyUIMessage["parts"];
   inProgress: boolean;
-};
+}
 
 export const MessageMetadata = ({
   parts,
