@@ -1,0 +1,41 @@
+{
+  "name": "next-forge",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:22",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {},
+    "ghcr.io/devcontainers-contrib/features/pnpm:2": {
+      "version": "latest"
+    }
+  },
+  "forwardPorts": [3000, 3001, 3002, 3003, 3004, 5432, 6006],
+  "postCreateCommand": "pnpm install",
+  "postStartCommand": "docker compose up -d",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "biomejs.biome",
+        "bradlc.vscode-tailwindcss",
+        "prisma.prisma",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "ms-playwright.playwright",
+        "vercel.turbo-vsc",
+        "github.copilot",
+        "github.copilot-chat",
+        "ms-azuretools.vscode-docker"
+      ],
+      "settings": {
+        "editor.defaultFormatter": "biomejs.biome",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+          "quickfix.biome": "explicit",
+          "source.organizeImports.biome": "explicit"
+        },
+        "typescript.preferences.importModuleSpecifier": "non-relative",
+        "typescript.tsdk": "node_modules/typescript/lib"
+      }
+    }
+  },
+  "remoteUser": "node"
+}
